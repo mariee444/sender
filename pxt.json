@@ -1,5 +1,5 @@
 {
-    "name": "Sender",
+    "name": "Sender-ms",
     "description": "",
     "dependencies": {
         "core": "*",
